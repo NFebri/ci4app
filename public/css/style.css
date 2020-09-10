@@ -1,0 +1,11 @@
+.sampul {
+  width: 100px;
+}
+
+.gambar_artikel {
+  width: 150px;
+}
+
+.table>tbody>tr>* {
+  vertical-align: middle;
+}
